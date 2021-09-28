@@ -1,0 +1,5 @@
+E:\Desktop\Prueba\Prueba\Infraestructura\bin\Debug\netstandard2.0\Domain.dll
+E:\Desktop\Prueba\Prueba\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csprojAssemblyReference.cache
+E:\Desktop\Prueba\Prueba\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.csproj.CoreCompileInputs.cache
+E:\Desktop\Prueba\Prueba\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfoInputs.cache
+E:\Desktop\Prueba\Prueba\Infraestructura\obj\Debug\netstandard2.0\Infraestructura.AssemblyInfo.cs
